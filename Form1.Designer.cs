@@ -87,7 +87,7 @@
             // 
             // buttonOrdenar
             // 
-            this.buttonOrdenar.Location = new System.Drawing.Point(566, 316);
+            this.buttonOrdenar.Location = new System.Drawing.Point(560, 317);
             this.buttonOrdenar.Name = "buttonOrdenar";
             this.buttonOrdenar.Size = new System.Drawing.Size(75, 23);
             this.buttonOrdenar.TabIndex = 5;
